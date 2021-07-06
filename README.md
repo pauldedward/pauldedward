@@ -8,7 +8,7 @@
 </a></div>
 
 <hr>
-<br>
+
 <h3 align="left" style="font-size:1.5rem;color:#1cb5ff">Connect with me:</h3>
 
 <p align="left">
@@ -18,7 +18,6 @@
 <a href="mailto:edward2000ed@gmail.com" target="_blank"><img align="center" src="./svgfiles/email.svg" alt="pauldedward" height="40" width="40" style="margin-left: 10px;padding:.25rem 0;" /></a>
 </p>
 
-<br>
 <h3 align="left" style="font-size:1.5rem;color:#1cb5ff">Languages and Tools:</h3>
 
 <p align="left">
@@ -34,6 +33,5 @@
 <a href="https://reactjs.org/" target="_blank"><img align="center" src="./svgfiles/react.svg" alt="React" height="40" width="40" style="margin-left: 10px;padding: .25rem 0;" /></a> 
 <a href="https://www.adobe.com/in/products/illustrator.html?sdid=SBNHMR64&mv=search&ef_id=CjwKCAjw_o-HBhAsEiwANqYhp1EUx-fw7Y11hGb8jpysDQieggbrEGK6q0q-XL6Rdv2oUU0dUniQhBoCsG4QAvD_BwE:G:s&s_kwcid=AL!3085!3!248235017690!e!!g!!illustrator!221172068!17525759348&gclid=CjwKCAjw_o-HBhAsEiwANqYhp1EUx-fw7Y11hGb8jpysDQieggbrEGK6q0q-XL6Rdv2oUU0dUniQhBoCsG4QAvD_BwE" target="_blank"><img align="center" src="./svgfiles/illustrator.svg" alt="adobe-illustrator" height="40" width="40" style="margin-left: 10px;padding: .25rem 0;"/></a>
 </p>
-
 <br>
 
