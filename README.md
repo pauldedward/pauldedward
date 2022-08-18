@@ -3,7 +3,7 @@
 <h1 align="center" style="line-height:1.5">Hey there! 👼<p style="font-size:1.5rem"><strong>I'm Edward</strong>🐒</p></h1>
 
 <div align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img width="50%"src="https://github-readme-stats.vercel.app/api?username=pauldedward&include_all_commits=true&count_private=true&custom_title=Overall Stats&title_color=1cb5ff&show_icons=true&hide_border=true&theme=dark"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=pauldedward&include_all_commits=true&count_private=true&custom_title=Overall Stats&title_color=1cb5ff&show_icons=true&hide_border=true&theme=dark"/>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauldedward&title_color=1cb5ff&show_icons=true&hide_border=true&theme=dark&layout=compact&langs_count=10"/>
 </a></div>
 
