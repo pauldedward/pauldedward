@@ -1,7 +1,6 @@
 
 
 <h1 align="center" style="line-height:1.5">Hey there! 👼<p style="font-size:1.5rem"><strong>I'm Edward</strong>🐒</p></h1>
-<hr>
 <h3 align="left" style="font-size:1.5rem;color:#1cb5ff">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/paul_d_edward" target="_blank"><img align="center" src="./svgfiles/instagram.svg" alt="pauldedward" height="40" width="40" style="margin-left: 10px;padding:.25rem 0;"/></a>
